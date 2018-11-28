@@ -1,4 +1,7 @@
-# xjj
+# XIA Jiangjiang
+
+Focus on applications of machine learning. Now mainly in Atmospheric Sciences.
+
 
 
 【1】
