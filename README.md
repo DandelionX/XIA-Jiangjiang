@@ -11,7 +11,7 @@ Focus on applications of machine learning. Now mainly in Atmospheric Sciences.
 
 【2】Paper list link
 
-
+https://github.com/DandelionX/papers-list
 
 
 
