@@ -3,14 +3,30 @@
 Focus on applications of machine learning. Now mainly in Atmospheric Sciences.
 
 
+【1】Resume link
 
-【1】
+
+
+
+
+【2】Paper list link
+
+
+
+
+
+
+【3】
 
 I am a member of Research Unit of Machine Learning Applications:
-
 http://www.doctordandelion.cn/rumla/
 
-【2】
+
+
+
+
+
+【4】
 
 My 微信公众号：
 
