@@ -39,7 +39,7 @@ http://www.doctordandelion.cn/rumla/
 
 【1】 简历 链接
 
-https://github.com/DandelionX/XIA-Jiangjiang/blob/master/Resume
+https://github.com/DandelionX/XIA-Jiangjiang/blob/master/%E7%AE%80%E5%8E%86
 
 
 【2】 文章列表
