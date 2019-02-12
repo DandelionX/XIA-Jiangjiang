@@ -1,34 +1,6 @@
-# XIA Jiangjiang
-
------------------------------------------------------------English----------------------------------------------------
-
-【1】 Research feilds:
-
-Focus on applications of machine learning. Now mainly in Atmospheric Sciences.
-
-
-【2】Resume:
-
-
-
-
-【3】Paper list link
-
-
-https://github.com/DandelionX/papers-list
-
-
-
-【4】
-
-I am a member of Research Unit of Machine Learning Applications:
-
-
-http://www.doctordandelion.cn/rumla/
-
-
-
 # 夏江江
+
+xiajj@tea.ac.cn
 
 -----------------------------------------------------------中文----------------------------------------------------
 
@@ -64,6 +36,33 @@ My 微信公众号：
 南山婆婆丁
 
 
+# XIA Jiangjiang
+
+-----------------------------------------------------------English----------------------------------------------------
+
+【1】 Research feilds:
+
+Focus on applications of machine learning. Now mainly in Atmospheric Sciences.
+
+
+【2】Resume:
+
+
+
+
+【3】Paper list link
+
+
+https://github.com/DandelionX/papers-list
+
+
+
+【4】
+
+I am a member of Research Unit of Machine Learning Applications:
+
+
+http://www.doctordandelion.cn/rumla/
 
 
 
