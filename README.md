@@ -43,6 +43,8 @@ https://github.com/DandelionX/papers-list
 
 第二届智慧气象服务创新大赛“卫星云图+地面观测云图预测辐照量”，初赛A榜B榜成绩都是第六名（282支队伍）
 
+https://github.com/DandelionX/XIA-Jiangjiang/tree/master/%E7%AB%9E%E8%B5%9B-%E8%BE%90%E7%85%A7%E9%87%8F-201910
+
 
 【4】
 
