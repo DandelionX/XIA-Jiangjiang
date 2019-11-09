@@ -46,11 +46,16 @@ https://github.com/DandelionX/papers-list
 https://github.com/DandelionX/XIA-Jiangjiang/tree/master/%E7%AB%9E%E8%B5%9B-%E8%BE%90%E7%85%A7%E9%87%8F-201910
 
 
-【4】
+【4】培训
 
-My 微信公众号：
+民航气象预报新技术培训班-机器学习在大气科学中的应用
 
-南山婆婆丁
+
+
+
+
+
+
 
 
 # XIA Jiangjiang
