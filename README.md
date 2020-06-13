@@ -6,13 +6,11 @@ xiajj@tea.ac.cn
 
 
 
-为天气预报/气候预测做的更准一些、做一点贡献
-
-
-
 ----------------------中文------------------------------------------------------
 
 中国科学院大气物理研究所副研究员，
+
+Research Unit of Machine Learning Applications, RUMLA负责人
 
 大气所气象科技应用中心天气预报+机器学习产品研发方向负责人，
 
@@ -32,6 +30,8 @@ xiajj@tea.ac.cn
   强对流（强降水、雷暴、冰雹）的识别和外推；
   
   机场跑道精细化短临风、能见度的预报；
+  
+  Model Emulation
 
 
 【1】 简历 链接
@@ -53,10 +53,6 @@ https://github.com/DandelionX/XIA-Jiangjiang/tree/master/%E7%AB%9E%E8%B5%9B-%E8%
 【4】培训
 
 民航气象预报新技术培训班-机器学习在大气科学中的应用，2019年11月8日
-
-
-
-
 
 
 
@@ -85,7 +81,7 @@ https://github.com/DandelionX/papers-list
 
 【4】
 
-I am a member of Research Unit of Machine Learning Applications:
+I am the chairman of Research Unit of Machine Learning Applications:
 
 
 
