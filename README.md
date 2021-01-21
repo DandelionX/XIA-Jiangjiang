@@ -11,18 +11,19 @@ see also: https://www.researchgate.net/profile/Jiangjiang_Xia
 
 中国科学院大气物理研究所副研究员，
 
-Research Unit of Machine Learning Applications, RUMLA Leader
-
-大气所气象科技应用中心天气预报+机器学习产品研发方向负责人，
+机器学习应用小组负责人（Research Unit of Machine Learning Applications, RUMLA Leader）
 
 气象大数据实验室特征工程组组长，
+
+气象服务协会-人工智能技术委员会成员
+
+大气所天气预报+机器学习产品研发方向，
 
 中国科学院大气物理研究所青年科学家实验室成员，2019.07-2021.06.   http://www.iap.cas.cn/jgsz/glbm/zzrsc/rzrm/201912/t20191202_5446748.html
 
 南方海洋科学与工程广东省实验室（珠海）成员
 
 气候与环境数学专业委员会会员
-
 
 ---------------------研究方向----------------------------------------------------
 
