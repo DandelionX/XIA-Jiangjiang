@@ -15,7 +15,7 @@ see also: https://www.researchgate.net/profile/Jiangjiang_Xia
 
 气象大数据实验室特征工程组组长，
 
-气象服务协会-人工智能技术委员会成员
+中国气象服务协会人工智能技术委员会副主任委员，
 
 大气所天气预报+机器学习产品研发方向，
 
