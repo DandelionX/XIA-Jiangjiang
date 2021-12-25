@@ -11,6 +11,9 @@ see also: https://www.researchgate.net/profile/Jiangjiang_Xia
 
 中国科学院大气物理研究所副研究员，
 
+中国科学院大气物理研究所大气科学人工智能研究中心，执行副主任；Executive Deputy Director of Center for Artificial Intelligence in Atmospheric Science（the AA center）, IAP, CAS
+
+
 机器学习应用小组负责人（Research Unit of Machine Learning Applications, RUMLA Leader）
 
 气象大数据实验室特征工程组组长，
